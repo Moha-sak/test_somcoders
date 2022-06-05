@@ -6,7 +6,7 @@ function sum(...values)
     {
         sum +=values[i];
     }
-return sum;
+return "the sum of these numbers are: "+sum;
 }
 
 console.log(sum(3,5,2,5,3,2,5));
