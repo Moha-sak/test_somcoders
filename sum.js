@@ -9,4 +9,4 @@ function sum(...values)
 return sum;
 }
 
-console.lo(sum(3,5,2,5,3,2,5));
+console.log(sum(3,5,2,5,3,2,5));
