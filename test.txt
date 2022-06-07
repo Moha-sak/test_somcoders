@@ -1,0 +1,16 @@
+in here i am going to test some functionalities of git/github
+i have done and fully understood the meaning of the basic command such as
+    - git add
+    - git commit
+    - git remote origin add or git remote set-url origin
+    - git branches for creating, managing and merging
+    - git checkouts
+    - git reset
+    - staged files and unstaged files
+    - tracking files and untrancking files
+    - working directory
+    - local repositories and remote repositoreis
+
+
+Now i am going to continue my learning and i am going to take the main part of the lesson which is how to contribute with other or as group working with in one project.
+and also the usage of the branches and how the effect each other working with group.
