@@ -14,3 +14,6 @@ i have done and fully understood the meaning of the basic command such as
 
 Now i am going to continue my learning and i am going to take the main part of the lesson which is how to contribute with other or as group working with in one project.
 and also the usage of the branches and how the effect each other working with group.
+
+know i am going to add this text from an other branch called develp
+i will try to merge with main branch.
