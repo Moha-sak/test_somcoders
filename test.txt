@@ -17,3 +17,7 @@ and also the usage of the branches and how the effect each other working with gr
 
 know i am going to add this text from an other branch called develp
 i will try to merge with main branch.
+
+
+Alhamdulillah everything is going well.
+
